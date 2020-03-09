@@ -1,4 +1,4 @@
-image: jelaniwoods/appdev-ruby2_6_5
+image: jelaniwoods/appdev-chrome-2.6.5
 
 tasks:
   - init: bin/setup
